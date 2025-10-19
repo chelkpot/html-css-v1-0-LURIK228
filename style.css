@@ -1,0 +1,20 @@
+h1 {
+    color:red
+}
+h2 {
+    color: blue;
+}
+p {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    background-color: darkolivegreen;
+}
+.gfg {
+    color: blueviolet;
+    background-color: aqua;
+}
+p:first-child {
+    color: gold;
+}
